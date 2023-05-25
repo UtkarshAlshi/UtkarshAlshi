@@ -12,7 +12,7 @@
 
 - 📫 <samp> You can reach me on **utkarshalshi02@gmail.com** 
 
-- ⚡ <samp> Fun Fact **Surprisingly dim-witted**, yet ***astonishingly intelligent*** beyond your **expectations**😎.
+- ⚡ <samp> Fun Fact **Surprisingly dim-witted**, yet ***astonishingly intelligent***😎.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
