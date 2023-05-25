@@ -43,7 +43,7 @@
 ### <samp>Github Stats
   
 <p align="center">
-  <a href="https://github.com/shubh08am"><span>
+  <a href="https://github.com/UtkarshAlshi"><span>
     <img height="48%" src="https://github-readme-stats.vercel.app/api?username=shubh08am&count_private=true&show_icons=true&theme=radical&&include_all_commits=true"/>
     <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=shubh08am&theme=radical" />
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=shubh08am&show_icons=true&locale=en&theme=dracula" alt="shubh08am"/>
@@ -65,6 +65,6 @@
 
 <p align="center"> Show some ❤️ by starring and forking 🌟 the repositories.</p>
 <!---
-Shubh08am/Shubh08am is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+UtkarshAlshi/UtkarshAlshi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
