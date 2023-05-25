@@ -44,10 +44,10 @@
   
 <p align="center">
   <a href="https://github.com/UtkarshAlshi"><span>
-    <img height="48%" src="https://github-readme-stats.vercel.app/api?username=shubh08am&count_private=true&show_icons=true&theme=radical&&include_all_commits=true"/>
-    <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=shubh08am&theme=radical" />
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=shubh08am&show_icons=true&locale=en&theme=dracula" alt="shubh08am"/>
-    <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shubh08am&theme=dracula" />
+    <img height="48%" src="https://github-readme-stats.vercel.app/api?username=UtkarshAlshi&count_private=true&show_icons=true&theme=radical&&include_all_commits=true"/>
+    <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=UtkarshAlshi&theme=radical" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=UtkarshAlshi&show_icons=true&locale=en&theme=dracula" alt="UtkarshAlshi"/>
+    <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=UtkarshAlshi&theme=dracula" />
     </span></a>
   
 </p>
@@ -55,7 +55,7 @@
   
 <p align="center"> 
   Visitor count<br>
-  <img src="https://profile-counter.glitch.me/shubh08am/count.svg" />
+  <img src="https://profile-counter.glitch.me/UtkarshAlshi/count.svg" />
 </p>
   
 ![snake svg](https://github.com/adityamangal1/adityamangal1/blob/output/github-contribution-grid-snake.svg)
