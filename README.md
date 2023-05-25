@@ -17,7 +17,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
  
- [![Linkdein](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://[[linkedin.com/in/-shubham--](https://www.linkedin.com/in/utkarsh-alshi-70b0b6227/)](https://www.linkedin.com/in/utkarsh-alshi-70b0b6227/)](https://www.linkedin.com/in/utkarsh-alshi-70b0b6227/))
+ [![Linkdein](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/utkarsh-alshi-70b0b6227/)
  <h3 align="left">Coding Profiles:</h3>
 <p align="left">  
  
