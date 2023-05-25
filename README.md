@@ -4,7 +4,7 @@
 
 
 - 👷 <samp>  Pursuing ***Computer Science & Engineering*** from **National Institute of Technology Raipur**.Currently, I'm in my Pre-final Year and I have a keen interest in ***Data Structures and Algorithms***
-- 🌱 <samp> I’m currently learning **Web Development ** and tryying to get better in **DSA**
+- 🌱 <samp> I’m currently learning **Web Development** and trying to get better in **DSA**
 
 - 🤝 <samp> I’m looking for help with **Web Development**
 
@@ -12,7 +12,7 @@
 
 - 📫 <samp> You can reach me on **utkarshalshi02@gmail.com** 
 
-- ⚡ <samp> Fun Fact **Surprisingly dim-witted**, yet ***astonishingly intelligent*** beyond your **expectations**.
+- ⚡ <samp> Fun Fact **Surprisingly dim-witted**, yet ***astonishingly intelligent*** beyond your **expectations**😎.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
