@@ -1,23 +1,23 @@
 <h1 align="center">Hi 👋, I'm Utkarsh Alshi</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shubh08am&label=Visitors%20Count&color=0e75b6&style=flat" alt="shubh08am" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=shubh08am&label=Visitors%20Count&color=0e75b6&style=flat" alt="UtkarshAlshi" /> </p>
 
 
-- 👷 <samp>  Pursuing ***Computer Science & Engineering*** from **National Institute of Technology Raipur**.Currently, I'm in Second Year and I have a keen interest in ***Competitive Programming***
-- 🌱 <samp> I’m currently learning **Data Structures and Algorithms using C++** and **Web Development**
+- 👷 <samp>  Pursuing ***Computer Science & Engineering*** from **National Institute of Technology Raipur**.Currently, I'm in my Pre-final Year and I have a keen interest in ***Data Structures and Algorithms***
+- 🌱 <samp> I’m currently learning **Web Development ** and tryying to get better in **DSA**
 
 - 🤝 <samp> I’m looking for help with **Web Development**
 
-- 💬 <samp> Ask me about **DSA , Competitive Programming**
+- 💬 <samp> Ask me about **DSA**
 
-- 📫 <samp> You can reach me on **Shubh08am@gmail.com** 
+- 📫 <samp> You can reach me on **utkarshalshi02@gmail.com** 
 
-- ⚡ <samp> Fun Fact **Too much ***serious*** to be funny**
+- ⚡ <samp> Fun Fact **Surprisingly dim-witted**, yet ***astonishingly intelligent*** beyond your **expectations**.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
  
- [![Linkdein](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/-shubham-yadav-)
+ [![Linkdein](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://[[linkedin.com/in/-shubham--](https://www.linkedin.com/in/utkarsh-alshi-70b0b6227/)](https://www.linkedin.com/in/utkarsh-alshi-70b0b6227/))
  <h3 align="left">Coding Profiles:</h3>
 <p align="left">  
  
