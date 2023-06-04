@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Utkarsh Alshi</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shubh08am&label=Visitors%20Count&color=0e75b6&style=flat" alt="UtkarshAlshi" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=UtkarshAlshi&label=Visitors%20Count&color=0e75b6&style=flat" alt="UtkarshAlshi" /> </p>
 
 
 - 👷 <samp>  Pursuing ***Computer Science & Engineering*** from **National Institute of Technology Raipur**.Currently, I'm in my Pre-final Year and I have a keen interest in ***Data Structures and Algorithms***
