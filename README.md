@@ -21,9 +21,9 @@
  <h3 align="left">Coding Profiles:</h3>
 <p align="left">  
  
-[![Leetcode](https://img.shields.io/badge/-Leetcode-000000?style=for-the-badge&logo=Leetcode&logoColor=yellow)](https://leetcode.com/utkarshalshi/)
-[![Codechef](https://img.shields.io/badge/-CodeChef-5B4638?style=for-the-badge&logo=CodeChef&logoColor=white)](https://www.codechef.com/users/utkarshalshi02)
-[![Codeforces](https://img.shields.io/badge/-Codeforces-1F8ACB?style=for-the-badge&logo=Codeforces&logoColor=white)](https://codeforces.com/profile/utkarshalshi02) 
+[![Leetcode](https://img.shields.io/badge/-Leetcode-000000?style=for-the-badge&logo=Leetcode&logoColor=yellow)](https://leetcode.com/u/Everyday_Normal_Guy/)
+[![Codechef](https://img.shields.io/badge/-CodeChef-5B4638?style=for-the-badge&logo=CodeChef&logoColor=white)](https://www.codechef.com/users/utkarshalshi03)
+[![Codeforces](https://img.shields.io/badge/-Codeforces-1F8ACB?style=for-the-badge&logo=Codeforces&logoColor=white)](https://codeforces.com/profile/Everyday_Normal_Guy) 
 [![HackerRank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/utkarshalshi02?hr_r=1)
 [![GeeksforGeeks](https://img.shields.io/badge/-GeeksforGeeks-023020?style=for-the-badge&logo=GeeksforGeeks&logoColor=green)](https://auth.geeksforgeeks.org/user/utkarshalshi02/practice/)
 
