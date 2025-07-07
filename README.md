@@ -27,7 +27,6 @@
 [![CodeChef](https://img.shields.io/badge/-CodeChef-5B4638?style=for-the-badge&logo=CodeChef&logoColor=white)](https://www.codechef.com/users/utkarshalshi03)
 [![Codeforces](https://img.shields.io/badge/-Codeforces-1F8ACB?style=for-the-badge&logo=Codeforces&logoColor=white)](https://codeforces.com/profile/Everyday_Normal_Guy)
 [![GFG](https://img.shields.io/badge/-GeeksforGeeks-023020?style=for-the-badge&logo=GeeksforGeeks&logoColor=green)](https://auth.geeksforgeeks.org/user/utkarshalshi02/practice/)
-[![HackerRank](https://img.shields.io/badge/-HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/utkarshalshi02?hr_r=1)
 
 ---
 
