@@ -11,7 +11,7 @@
 - 🔨 Currently learning and building with **MERN stack**, **Spring Boot**, and exploring **Distributed Systems**
 - 🤝 Actively open to **collaborating on backend projects** and contributing to open source
 - 📫 Reach me at: **utkarshalshi02@gmail.com**
-- 🎸 Fun Fact: *Surprisingly dim-witted, yet astonishingly intelligent 😎*
+- 🎸 Fun Fact: *Can lift 165 lbs at the gym, still gets folded in every arm wrestling match.*
 
 ---
 
